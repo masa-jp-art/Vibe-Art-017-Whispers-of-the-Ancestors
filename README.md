@@ -19,8 +19,11 @@
 
 ## 2. ファイル構成
 ├─ index.html      # エントリ（p5.js & p5.sound CDN / UI / HUD）
+
 ├─ style.css       # UI スタイル（HUD / オーバレイ / グラス感）
+
 ├─ sketch.js       # p5.js スケッチ（シミュレーションと合成）
+
 └─ .env.example    # 未来の外部API利用用のテンプレ（本作は未使用）
 
 
